@@ -1,3 +1,6 @@
 # List required packages in this file, one per line.
 numpy
 matplotlib
+plotly
+streamlit
+streamlit-plotly-events
